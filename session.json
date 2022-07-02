@@ -1,3 +1,74 @@
-[
-  Session id here
-]
+},
+              "BSFtp4Ls6OlqRZ9qHSmNr+JCet9oViOL4top86ZuaP15": {
+                "chainKey": {
+                  "counter": -1,
+                  "key": "OzaFmG0IRzUfuwgmxIWA/Y3qgJ85HzpWbrkObau2/XY="
+                },
+                "chainType": 1,
+                "messageKeys": {}
+              }
+            }
+          }
+        },
+        "version": "v1"
+      }
+    },
+    "appStateSyncKeys": {
+      "AAAAAG8t": {
+        "keyData": "NslE8NmOK5SMFy5tZ3ZZySB1q1uAi+R/fsUaoISNtYw=",
+        "fingerprint": {
+          "rawId": 231257939,
+          "currentIndex": 1,
+          "deviceIndexes": [
+            0,
+            1
+          ]
+        },
+        "timestamp": "1656766110583"
+      }
+    },
+    "appStateVersions": {
+      "critical_block": {
+        "version": 1,
+        "hash": {
+          "type": "Buffer",
+          "data": "I9kSu7QTyRx8d30HVs4BAfSztZAY/RSYcpNRx+CKvvg+7I5ObZSiusV91oyHSFKOf54QVMFgWccsH+EIYKDcV9yXtflE4od3YlhYHtYW9znIN4S+DuIBseJJ7023sH3vZGfqw/r79XqdvLNqFJlvyDsmh6Ji6qQiw9Lh0Ss0TBY="
+        },
+        "indexValueMap": {
+          "hhPURdJ+TtnLZEFv0UXqwHDXI16T+AgjdbAchFH/qXI=": {
+            "valueMac": {
+              "type": "Buffer",
+              "data": "L8evapoCU5DdtrV3q/ACWdMBSq8fPvCHxClah2XtTkY="
+            }
+          },
+          "6IAMnnRs8771r0erNnzNoLw6ZkOvXGLBUSBCLbb5AzI=": {
+            "valueMac": {
+              "type": "Buffer",
+              "data": "jo1I+hAFaZtp8Z29XGdBvU9ktak74rDFEPUcvdvSHPE="
+            }
+          }
+        }
+      },
+      "regular": {
+        "version": 1,
+        "hash": {
+          "type": "Buffer",
+          "data": "tkppQWUFnlTMj/GBk72JqjUyCHgxwOy9Rr46O1HkGurrUXCslNVt7vTP6rY8qWw5Nq00S4/pYy4FPKZmeVcDSIRw/LDSsO54tjX/0Qg7RkbCigbgqmUWzSTLmr/q+Zrtrtmf40G8wO5Ch72+WHVQvG+8okDcbrmDi32mXwrE4vA="
+        },
+        "indexValueMap": {
+          "u92koDY/T9kliaafeb1WgE8ZzAJWnocZhyr6hGu7j9g=": {
+            "valueMac": {
+              "type": "Buffer",
+              "data": "0O01DYHiZ13VSjPIbNOwo15uVzDSVtUBCBlnF0mc2uA="
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+           
+           
+  
+
